@@ -15,15 +15,15 @@
 <br />
 
 ## User Story
-
- AS A manager at an internet retail company
+```
+AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
-
+```
 <br />
 
 ## Acceptance Criteria
-
+```
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
@@ -35,10 +35,11 @@ WHEN I open API GET routes in Insomnia Core for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
+```
 ## Demo
-![Categories](Assets/HW13-categories-demo.mp4)
-![Products](Assets/HW13-products-demo.mp4)
-![Tags](Assets/HW13-tags-demo.mp4)
+![Categories](https://drive.google.com/file/d/1-g1jnq2I-pfiYOueZuvv5Jn-AID5_kD0/view?usp=sharing)
+![Products](https://drive.google.com/file/d/10vbrrYxpmzqquthNdq-7vmLtbrZVOfvc/view?usp=sharing)
+![Tags](https://drive.google.com/file/d/1OkmKhnruvogpZopbeTzsWlr5BXqZ4-xn/view?usp=sharing)
 
 ## Languages/NPM Modules
 
