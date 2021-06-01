@@ -38,9 +38,10 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 ## Demo
 [![Categories](Assets/HW13-categories-demo.gif)](https://drive.google.com/file/d/1-g1jnq2I-pfiYOueZuvv5Jn-AID5_kD0/view?usp=sharing)
-<br />
+
+
 [![Products](Assets/HW13-products-demo.gif)](https://drive.google.com/file/d/10vbrrYxpmzqquthNdq-7vmLtbrZVOfvc/view?usp=sharing)
-<br />
+
 [![Tags](Assets/HW13-tags-demo.gif)](https://drive.google.com/file/d/1OkmKhnruvogpZopbeTzsWlr5BXqZ4-xn/view?usp=sharing)
 
 ## Languages/NPM Modules
